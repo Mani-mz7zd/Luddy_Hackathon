@@ -1,1 +1,2 @@
-# Luddy_Hackathon
+#🧠 Smart Course Selector AI Agent
+

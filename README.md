@@ -1,4 +1,5 @@
-# 🧠 Smart Course Selector AI Application
+# 🧠 Smart Course Selector AI Application  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Indiana_Hoosiers_logo.svg" alt="IU Logo" style="height:50px; vertical-align:middle;" />
+
 
 An intelligent tool designed to guide students in selecting courses that align with their academic goals. This system brings together advanced data search techniques, specialized processing modules, and a user-friendly interface to deliver personalized course recommendations and insights.
 

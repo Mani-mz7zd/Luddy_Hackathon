@@ -1,2 +1,2 @@
-#🧠 Smart Course Selector AI Agent
+# 🧠 Smart Course Selector AI Agent
 

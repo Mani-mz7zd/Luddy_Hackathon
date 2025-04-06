@@ -1,7 +1,7 @@
 <h1>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Indiana_Hoosiers_logo.svg" 
        alt="IU Logo" 
-       width="40" 
+       width="30" 
        style="vertical-align:middle; margin-right:10px;" />
   Smart Course Selector AI Application
 </h1>
